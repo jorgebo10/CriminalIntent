@@ -1,0 +1,1 @@
+ALTER TABLE crimes ADD COLUMN suspect VARCHAR(100);
